@@ -1,5 +1,6 @@
 ---
 title: "My HDS Blog"
 site: distill::distill_website
-listing: posts
+listing: 
+  posts
 ---
