@@ -5,15 +5,15 @@
     "description": "Welcome to our new blog, My HDS Blog. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
+        "name": "Maneesh Prasad",
         "url": "https://example.com/norajones"
       }
     ],
-    "date": "2024-06-09",
+    "date": "2024-09-07",
     "categories": [],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2024-06-09T13:08:08+10:00",
+    "last_modified": "2024-06-09T22:19:18+10:00",
     "input_file": {}
   }
 ]
